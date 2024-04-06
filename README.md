@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanadh2
+- 🌱 I’m a MERN stack developer
 - 👀 I’m interested in WEB DEV
-- 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 How to reach me :sanadhakku@gmail.com
 
